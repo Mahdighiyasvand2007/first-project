@@ -12,7 +12,7 @@ while hads !=javab:
     hads= input ("what is your hads?")
     hads= int(hads)
 print ("afarin hala ridam barat",name)  
-bazimojadad=input ("mikhay dobarebazi koni?")
+bazimojadad=input ("mikhay dobarebazi koni?press "[y]"  ")
 if bazimojadad == "y":
     print ("be tokhmam ")
     print ("\u1F595")
